@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/static/js/main.9bf52c83.chunk.js",
-    "main.js.map": "/static/js/main.9bf52c83.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.1e815694.js",
-    "runtime~main.js.map": "/static/js/runtime~main.1e815694.js.map",
-    "static/js/2.998ca56d.chunk.js": "/static/js/2.998ca56d.chunk.js",
-    "static/js/2.998ca56d.chunk.js.map": "/static/js/2.998ca56d.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.8138594a65b91467d4e87e195ecfe31e.js": "/precache-manifest.8138594a65b91467d4e87e195ecfe31e.js",
-    "service-worker.js": "/service-worker.js"
+    "main.js": "/sprint-review/static/js/main.2a4c4417.chunk.js",
+    "main.js.map": "/sprint-review/static/js/main.2a4c4417.chunk.js.map",
+    "runtime~main.js": "/sprint-review/static/js/runtime~main.f0a4ed3e.js",
+    "runtime~main.js.map": "/sprint-review/static/js/runtime~main.f0a4ed3e.js.map",
+    "static/js/2.402e9e5c.chunk.js": "/sprint-review/static/js/2.402e9e5c.chunk.js",
+    "static/js/2.402e9e5c.chunk.js.map": "/sprint-review/static/js/2.402e9e5c.chunk.js.map",
+    "index.html": "/sprint-review/index.html",
+    "precache-manifest.0132c2c2724ed5835b2fb5d721b537ac.js": "/sprint-review/precache-manifest.0132c2c2724ed5835b2fb5d721b537ac.js",
+    "service-worker.js": "/sprint-review/service-worker.js"
   }
 }
