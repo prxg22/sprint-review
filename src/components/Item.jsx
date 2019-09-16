@@ -6,11 +6,11 @@ const Item = styled.li`
   flex-direction: column;
   justify-content: space-between;
   background-color: #232931;
-  border-radius: 4px
-  padding: 16px
+  border-radius: 4px;
+  padding: 16px;
+  box-shadow: 2px 2px 5px #333;
   margin-bottom: 24px
   list-style: none;
-  box-shadow: 2px 2px 5px #333;
   transform: scale(1);
   transition: transform .4s ease-in-out;
   cursor: pointer;
